@@ -1,1 +1,1 @@
-# There's a project of the first testing enviromental
+# It's a project of the first test enviromental
